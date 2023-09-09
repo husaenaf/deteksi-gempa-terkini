@@ -16,10 +16,10 @@ def ekstraksi_data():
     :return:
     """
 
-    hasil = dict
+    hasil = dict()
     hasil['tanggal'] = '9 September 2023'
     hasil['waktu'] = '12:02:51 WIB'
-    hasil['Magnitudo'] = 4.0
+    hasil['magnitudo'] = 4.0
     hasil['lokasi'] = {'ls': 7.62, 'bt': 128.54}
     hasil['pusat'] = '101 km TimurLaut MALUKUBRTDAYA'
     hasil['keterangan'] = 'tidak berpotensi TSUNAMI'
