@@ -7,6 +7,7 @@ MODULARISASI DENGAN FUNCTION
 def ekstraksi_data():
 
     """
+
     Tanggal: 09 September 2023, 12:02:51 WIB
     Magnitudo: 5.0
     Kedalaman: 210 km
@@ -17,7 +18,7 @@ def ekstraksi_data():
     """
 
     hasil = dict()
-    hasil['tanggal'] = '9 September 2023'
+    hasil['tanggal'] = '9 S eptember 2023'
     hasil['waktu'] = '12:02:51 WIB'
     hasil['magnitudo'] = 4.0
     hasil['lokasi'] = {'ls': 7.62, 'bt': 128.54}
